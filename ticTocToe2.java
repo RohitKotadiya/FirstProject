@@ -11,7 +11,8 @@ class ticTocToe2{
 
 		int counter=0;
 		flag = "player1";
-		
+		System.out.println("For stash");
+
 		System.out.println("Secondary Branch");
 		System.out.println("Third Branch");
 		
