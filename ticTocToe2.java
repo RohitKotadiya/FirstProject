@@ -11,8 +11,13 @@ class ticTocToe2{
 
 		int counter=0;
 		flag = "player1";
-	
 		
+		System.out.println("Secondary Branch");
+		System.out.println("Hello");
+		populateEmptyBoard();
+		System.out.println("Game Starts with Player1");
+		System.out.println("Player1 -> 0 , player2 -> 1");
+
 		//System.out.println("length -> "+ar.length);
 
 		while(winner==null)
